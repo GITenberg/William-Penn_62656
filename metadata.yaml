@@ -1,0 +1,33 @@
+_repo: William-Penn_62656
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Oertel, Hugo
+    gutenberg_agent_id: '47760'
+    url: http://www.gutenberg.org/2009/agents/47760
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62656'
+  lccn: '11025113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life Stories for Young People
+subjects:
+- !lcsh 'Penn, William, 1644-1718'
+- !lcc 'F106'
+- GITenberg
+title: William Penn
+url: http://www.gutenberg.org/ebooks/62656
