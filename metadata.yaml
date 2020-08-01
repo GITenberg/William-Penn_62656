@@ -1,5 +1,5 @@
 _repo: William-Penn_62656
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Upton, George P. (George Putnam)
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 62656-h/images/cover.jpg
 creator:
   author:
     agent_name: Oertel, Hugo
     gutenberg_agent_id: '47760'
     url: http://www.gutenberg.org/2009/agents/47760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62656#William-Penn
 gutenberg_issued: '2020-07-15'
 gutenberg_type: Text
 identifiers:
